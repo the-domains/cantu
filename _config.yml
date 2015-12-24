@@ -1,6 +1,6 @@
 name: Cantu
 favicon: null
-layout_spectrum: 0.716492333682254
+layout_spectrum: 0.74659
 typography_spectrum: 0.5546957997139543
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#FAD8D6'
   brandStrength: 0.004464318975806236
   lightness: 0.5712285721674562
-  saturation: 0.050984537694603205
+  saturation: 0.375
   rhythmicContrast: 0.7097705793567002
 purpose: []
