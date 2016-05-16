@@ -1,4 +1,4 @@
-name: Cantu
+name: Cantú
 favicon: null
 layout_spectrum: 0.74659
 typography_spectrum: 0.5546957997139543
@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77823805-1
   facebook: null
   twitter: null
 opengraph:
