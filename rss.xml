@@ -4,8 +4,15 @@
         <description><![CDATA[Cantu]]></description>
         <link>https://thegrid.ai/cantu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 02:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 02:28:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cantu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<p>Name: Chris Cantu</p>]]></description>
+            <link>https://thegrid.ai/cantu/about-me/index.html</link>
+            <guid isPermaLink="false">e0440f82-ed38-4813-99de-28ba7c66c9cc</guid>
+            <pubDate>Mon, 16 May 2016 02:27:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Post]]></title>
             <description><![CDATA[<p>Hi all, I have been wanting to build a blog for some time.  I have had tumblr sites, google pages, etc.  None of these mediums seemed to click for me.  </p>]]></description>
