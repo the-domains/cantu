@@ -4,7 +4,7 @@
         <description><![CDATA[Cantu]]></description>
         <link>https://thegrid.ai/cantu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 02:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 02:20:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cantu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Post]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/cantu/first-post/index.html</link>
             <guid isPermaLink="false">a8fe4754-322d-4069-a99b-1bc7405ebbbd</guid>
             <pubDate>Mon, 16 May 2016 02:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Get me out of here!]]></title>
-            <description><![CDATA[<article><h1>Get me out of here!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0eb3814ef79f40c08e1ebe8f7dfed02d2259ae97.png"></article>]]></description>
-            <link>https://thegrid.ai/cantu/get-me-out-of-here/index.html</link>
-            <guid isPermaLink="false">9730dfa6-9636-4b0e-a099-066aea2a92b6</guid>
-            <pubDate>Sun, 15 May 2016 00:03:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
