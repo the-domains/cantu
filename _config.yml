@@ -1,4 +1,3 @@
-layout_spectrum: 0.18784992144009707
 typography_spectrum: 0.8010974734565152
 color:
   brandColors:
@@ -11,21 +10,26 @@ color:
   lightness: 0.6812247990816832
   saturation: 0.547791167770577
   rhythmicContrast: 0.8837007522354327
-name: Cantú
-favicon: null
-title: Cantú
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77823805-1
-  facebook: null
-  twitter: null
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-purpose: []
+layout_spectrum: 0.18784992144009707
+analytics:
+  google: UA-77823805-1
+  facebook: null
+  twitter: null
+name: Cantú
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: give-and-take
+    id: 9263c286-53a0-4679-ad9e-f2a289cef258
+    type: content
+favicon: null
+title: Cantú
 content: []
-github: true
+purpose: []
