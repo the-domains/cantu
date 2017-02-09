@@ -1,7 +1,18 @@
+layout_spectrum: 0.18784992144009707
+typography_spectrum: 0.8010974734565152
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.6548213067515246
+  lightness: 0.6812247990816832
+  saturation: 0.547791167770577
+  rhythmicContrast: 0.8837007522354327
 name: Cantú
 favicon: null
-layout_spectrum: 0.74659
-typography_spectrum: 0.5546957997139543
 title: Cantú
 cta:
   domain: null
@@ -15,15 +26,6 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.004464318975806236
-  lightness: 0.5712285721674562
-  saturation: 0.375
-  rhythmicContrast: 0.7097705793567002
 purpose: []
+content: []
+github: true
