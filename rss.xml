@@ -4,12 +4,19 @@
         <description><![CDATA[Cantú]]></description>
         <link>http://xn--cant-tra.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Feb 2017 16:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2017 16:23:47 GMT</lastBuildDate>
         <atom:link href="http://xn--cant-tra.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Feb 2017 16:19:06 GMT</pubDate>
+        <pubDate>Fri, 10 Feb 2017 16:23:34 GMT</pubDate>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<p><strong>Name</strong>: Chris Cantu</p>,<p><strong>Occupation</strong>: Software Engineering Leader</p>]]></description>
+            <link>http://xn--cant-tra.com/about-me/index.html</link>
+            <guid isPermaLink="false">e0440f82-ed38-4813-99de-28ba7c66c9cc</guid>
+            <pubDate>Fri, 10 Feb 2017 16:23:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lilianna - Still I Fly]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgTH5fkOoSwc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgTH5fkOoSwc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgTH5fkOoSwc%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <description><![CDATA[<p>Teaching my Lilianna to Fly</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgTH5fkOoSwc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgTH5fkOoSwc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgTH5fkOoSwc%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p>This video was a labor of love. I love watching my children learn and grow.  I was fortunate that my wife and I recorded these lovely moments. </p>]]></description>
             <link>https://www.youtube.com/watch?v=gTH5fkOoSwc</link>
             <guid isPermaLink="false">2af8485d-899e-4850-8186-14c5d3c4bdbd</guid>
             <pubDate>Fri, 10 Feb 2017 16:19:05 GMT</pubDate>
@@ -34,13 +41,6 @@
             <link>http://xn--cant-tra.com/growth-and-fixed-mindsets/index.html</link>
             <guid isPermaLink="false">d3999d35-9811-4e54-ab7c-ef4ca9bf06fe</guid>
             <pubDate>Mon, 16 May 2016 11:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Me]]></title>
-            <description><![CDATA[<p><b>Name</b>: Chris Cantu</p>,<p><b>Occupation</b>: Software Engineering Leader</p>]]></description>
-            <link>http://xn--cant-tra.com/about-me/index.html</link>
-            <guid isPermaLink="false">e0440f82-ed38-4813-99de-28ba7c66c9cc</guid>
-            <pubDate>Mon, 16 May 2016 02:27:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First Post]]></title>
