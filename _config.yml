@@ -29,9 +29,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: give-and-take
-    id: 9263c286-53a0-4679-ad9e-f2a289cef258
-    type: content
   - name: About Me
     id: e0440f82-ed38-4813-99de-28ba7c66c9cc
     type: content
