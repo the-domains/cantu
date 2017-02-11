@@ -35,6 +35,9 @@ navigation:
   - name: Github
     url: 'https://github.com/chriscantu'
     type: external
+  - name: LinkedIn
+    url: 'https://www.linkedin.com/in/christophercantu'
+    type: external
 favicon: null
 title: Cantú
 content: []
