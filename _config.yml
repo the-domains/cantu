@@ -20,6 +20,9 @@ analytics:
   google: UA-77823805-1
   facebook: null
   twitter: null
+author:
+  name: Chris Cantu
+  email: christopher.cantu@gmail.com
 name: Cantú
 cta:
   domain: null
@@ -29,10 +32,10 @@ navigation:
   - name: give-and-take
     id: 9263c286-53a0-4679-ad9e-f2a289cef258
     type: content
+  - name: About Me
+    id: e0440f82-ed38-4813-99de-28ba7c66c9cc
+    type: content
 favicon: null
 title: Cantú
 content: []
 purpose: []
-author:
-  name: Chris Cantu
-  email: christopher.cantu@gmail.com
