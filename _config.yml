@@ -32,6 +32,9 @@ navigation:
   - name: About Me
     id: e0440f82-ed38-4813-99de-28ba7c66c9cc
     type: content
+  - name: Github
+    url: 'https://github.com/chriscantu'
+    type: external
 favicon: null
 title: Cantú
 content: []
