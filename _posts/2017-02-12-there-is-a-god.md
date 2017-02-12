@@ -5,8 +5,8 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-datePublished: '2017-02-12T15:11:31.437Z'
-description: There is a God!
+datePublished: '2017-02-12T15:14:00.690Z'
+description: ''
 via: {}
 inLanguage: en
 keywords:
@@ -22,12 +22,8 @@ keywords:
   - hiccup
 isBasedOnUrl: 'https://twitter.com/chriscantu/status/830644472509788160'
 inFeed: true
-publisher:
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  url: 'http://twitter.com'
-  domain: twitter.com
-dateModified: '2017-02-12T15:10:47.639Z'
+publisher: {}
+dateModified: '2017-02-12T15:11:33.709Z'
 related: []
 sourcePath: _posts/2017-02-12-there-is-a-god.md
 title: ''
@@ -38,4 +34,6 @@ _context: 'http://schema.org'
 _type: Comment
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efa9b304-15c9-4b64-96d4-d99d5d3311b9.jpg)
+
 > There is a God!
