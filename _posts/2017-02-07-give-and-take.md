@@ -1,19 +1,18 @@
 ---
-inFeed: true
+datePublished: '2017-02-12T16:03:30.555Z'
 description: >-
   In the spirit of “One Team” , I thought I would share a book I finished
   recently, Give and Take: Why Helping Others Drives Our Success by Dr. Adam
   Grant. Dr. Grant describes three basic reciprocity styles; Givers, Takers and
   Matchers .
-dateModified: '2017-02-09T04:56:31.465Z'
-datePublished: '2017-02-09T04:56:31.945Z'
-title: Give & Take
-author:
-  - url: 'http://www.cminds.net/2014/06/give-and-take-an-introduction/'
-publisher: {}
 via: {}
+inFeed: true
+publisher: {}
+dateModified: '2017-02-10T16:37:27.371Z'
 sourcePath: _posts/2017-02-07-give-and-take.md
+title: Give & Take
 hasPage: true
+author: []
 starred: false
 datePublishedOriginal: '2017-02-07T00:52:40.979Z'
 url: give-and-take/index.html
