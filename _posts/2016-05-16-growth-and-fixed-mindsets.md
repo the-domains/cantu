@@ -1,20 +1,20 @@
 ---
-datePublished: '2017-02-12T15:02:16.714Z'
+datePublished: '2017-02-12T16:03:06.973Z'
 authors: []
 description: >-
   Recently, I finished the book, "Grit: The Power of Passion and Perseverance"
   by Dr. Angela Duckworth. In my quest to become a better husband and father, I
   have read multiple books on positive psychology, the importance of mindset and
   overcoming struggle.
+via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-01-25T01:38:57.281Z'
+dateModified: '2017-02-12T15:02:17.320Z'
 sourcePath: _posts/2016-05-16-growth-and-fixed-mindsets.md
 title: ''
 hasPage: true
 author: []
-via: {}
 starred: false
 datePublishedOriginal: '2016-05-16T11:48:48.882Z'
 url: growth-and-fixed-mindsets/index.html
