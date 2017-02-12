@@ -34,9 +34,9 @@ isBasedOnUrl: >-
 title: >-
   15 Quotes That Give You Hope When You're Feeling Depressed - The Power of
   Ideas
-datePublished: '2017-02-12T15:43:54.249Z'
-dateModified: '2017-02-12T15:43:17.591Z'
-datePublishedOriginal: '2017-02-12T15:43:54.249Z'
+datePublished: '2017-02-12T15:44:04.982Z'
+dateModified: '2017-02-12T15:43:26.414Z'
+datePublishedOriginal: '2017-02-12T15:44:04.982Z'
 via: {}
 inFeed: true
 starred: false
