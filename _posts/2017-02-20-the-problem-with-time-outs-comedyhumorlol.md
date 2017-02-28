@@ -1,17 +1,17 @@
 ---
 publisher: {}
-dateModified: '2017-02-20T04:42:54.518Z'
+datePublished: '2017-02-28T04:26:07.487Z'
+dateModified: '2017-02-20T04:51:27.510Z'
+description: "There scary truth about timeouts.... Your kids might find a gang on the inside! \uD83D\uDE02"
 via: {}
+sourcePath: _posts/2017-02-20-the-problem-with-time-outs-comedyhumorlol.md
 isBasedOnUrl: >-
   https://external.xx.fbcdn.net/safe_image.php?d=AQB-lVt4MUmrOHAb&w=720&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FexkgVO3eD68%2Fmaxresdefault.jpg&cfs=1&sx=319&sy=0&sw=720&sh=720&_nc_hash=AQDnkpE3kjYY97qj
 title: The Problem With Time Outs (comedy/humor/lol)
-description: "There scary truth about timeouts.... Your kids might find a gang on the inside! \uD83D\uDE02"
 inFeed: true
 author: []
-datePublished: '2017-02-20T04:43:09.449Z'
 starred: true
 datePublishedOriginal: '2017-02-20T04:43:09.449Z'
-sourcePath: _posts/2017-02-20-the-problem-with-time-outs-comedyhumorlol.md
 _type: MediaObject
 
 ---
