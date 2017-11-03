@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-02-12T16:03:06.973Z'
+datePublished: '2017-11-03T19:50:18.647Z'
 authors: []
 description: >-
   Recently, I finished the book, "Grit: The Power of Passion and Perseverance"
@@ -10,14 +10,14 @@ via: {}
 keywords: []
 inFeed: true
 publisher: {}
-dateModified: '2017-02-12T15:02:17.320Z'
+dateModified: '2017-11-03T19:50:18.393Z'
 sourcePath: _posts/2016-05-16-growth-and-fixed-mindsets.md
 title: ''
 hasPage: true
 author: []
+datePublishedOriginal: '2017-11-03T19:50:18.647Z'
 starred: false
-datePublishedOriginal: '2016-05-16T11:48:48.882Z'
-url: growth-and-fixed-mindsets/index.html
+url: grit-and-mindsets/index.html
 _type: Article
 
 ---
